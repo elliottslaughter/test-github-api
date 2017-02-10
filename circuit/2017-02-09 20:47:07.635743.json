@@ -1,0 +1,1 @@
+{"args": ["-logfile", "out_%.log", "-l", "10", "-p", "2", "-npp", "2500", "-wpp", "10000", "-ll:cpu", "2"], "measurements": {"time_seconds": "11.307"}, "metadata": {"machine": "n0004", "commit": "f469c377184764ca7527772718bb80265a00b9e8"}}
