@@ -1,0 +1,1 @@
+{"measurements": {"time_seconds": "4.923", "argv": ["-l", "10", "-p", "100", "-npp", "2", "-wpp", "4", "-ll:cpu", "2"]}, "metadata": {"machine": "n0004", "commit": "f469c377184764ca7527772718bb80265a00b9e8"}}
