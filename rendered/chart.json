@@ -1,1 +1,1 @@
-{"circuit": [{"date": "2017-02-10 06:00:50.154594", "commit": "52d105741ec4978b0f82a3b21f3c8f31839db6f4", "host": "runner-332db5bd-project-1447639-concurrent-0", "argv": "-l 10 -p 2 -npp 2500 -wpp 10000 -ll:cpu 2", "time_seconds": "3.163"}, {"date": "2017-02-10 06:00:54.858383", "commit": "52d105741ec4978b0f82a3b21f3c8f31839db6f4", "host": "runner-332db5bd-project-1447639-concurrent-0", "argv": "-l 10 -p 100 -npp 2 -wpp 4 -ll:cpu 2", "time_seconds": "2.966"}]}
+{}
